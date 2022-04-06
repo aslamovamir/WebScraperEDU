@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uiUlTO2vgNku9Cm5SWRL835WAcIVHIMH1s4a4OXDZq+fYmbyiK0M2SqrM9mw9ZrxwgEY47LeTTFiJk93bYHunw==",
+  "success": true,
+  "projectFilePath": "/Users/amiraslamov/Desktop/ScraperApp/Scraper/Scraper.csproj",
+  "expectedPackageFiles": [
+    "/Users/amiraslamov/.nuget/packages/htmlagilitypack/1.11.42/htmlagilitypack.1.11.42.nupkg.sha512"
+  ],
+  "logs": []
+}
